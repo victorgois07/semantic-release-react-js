@@ -2,3 +2,5 @@ node_modules
 coverage
 public
 build
+commitlint.config.js
+src

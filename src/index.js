@@ -1,10 +1,10 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
 import './styles/index.css'
+import { I18nextProvider } from 'react-i18next'
 import App from './containers/app/index.js'
 import reportWebVitals from './config/reportWebVitals'
-import { I18nextProvider } from 'react-i18next'
-import i18n from 'config/i18n'
+import i18n from './config/i18n'
 
 ReactDOM.render(
   <I18nextProvider i18n={i18n}>

@@ -1,6 +1,6 @@
 import i18n from 'i18next'
-import pt from 'locales/pt.json'
 import { initReactI18next } from 'react-i18next'
+import pt from '../locales/pt.json'
 
 const resources = {
   pt: {
