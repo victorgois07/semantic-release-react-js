@@ -1,3 +1,16 @@
+# [1.1.0](https://github.com/victorgois07/semantic-release-react-js/compare/v1.0.0...v1.1.0) (2021-09-30)
+
+
+### Bug Fixes
+
+* merge package-lock ([3bfc052](https://github.com/victorgois07/semantic-release-react-js/commit/3bfc0521073657e54a2e6589e3eca9ca20c849af))
+* test ([139e0a2](https://github.com/victorgois07/semantic-release-react-js/commit/139e0a2e3f71881ce217e269d04b4cd8d9cc9356))
+
+
+### Features
+
+* add material ui and title test in page Home ([0ace171](https://github.com/victorgois07/semantic-release-react-js/commit/0ace171eccf2967382f1bc42cef094ef87711783))
+
 # 1.0.0 (2021-09-30)
 
 
